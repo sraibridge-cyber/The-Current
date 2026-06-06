@@ -1,6 +1,8 @@
 # The-Current
+**Stream processing · Harmony Labs**
 
-Distributed mesh networking. Edge-native. Self-healing topology.
+Stream processing · Real-time data flow and event bus
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
